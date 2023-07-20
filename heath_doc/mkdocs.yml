@@ -1,0 +1,12 @@
+site_name: Saglyk
+docs_dr: HEATH_DOC
+nav:
+  - Welcome: index.md
+  - Homepage: hospital.md
+  - Admin:
+      - Labworker: Lab_worker.md
+      - Pharmacist: Pharmacist.md
+      - Hospital Admin: hospital_admin.md
+  - Doctor Dashboard: doctor.md
+  - Patient Dashboard: patient.md
+  - ABOUT: page2.md
